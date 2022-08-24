@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Venkata Siva Krishna
-- 👀 I’m currently working for [Google LLC](https://about.google/) as Lead QA Engineer
+- 👀 I’m currently working for [Google LLC](https://about.google/) as a Lead QA Engineer
 - 🌱 I’m currently learning Python
 - 💬 Ask me about QA process and Methodlogies
 - 📫 How to reach me Venkata.siva2706@gmail.com
